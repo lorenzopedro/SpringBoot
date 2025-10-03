@@ -1,0 +1,15 @@
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/PagController.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/ProjetoApplication.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/config/CorsConfig.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/controller/MensagemController.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/controller/PessoaController.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/controller/PessoaWebController.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/controller/ProdutoController.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/model/Pessoa.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/model/Produto.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/repository/MensagemRepository.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/repository/PessoaRepository.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/repository/ProdutoRepository.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/service/MensagemService.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/service/PessoaService.java
+/workspaces/SpringBoot/Exercicio_Spring-main/aulaSpring/projeto/src/main/java/com/example/projeto/service/ProdutoService.java
