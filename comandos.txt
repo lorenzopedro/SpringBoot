@@ -1,0 +1,2 @@
+Dentro da pasta aulaSpringBoot/projeto: chmod +x mvnw
+E depois na mesma pasta: ./mvnw spring-boot:run
